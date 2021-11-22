@@ -1,7 +1,7 @@
-- Hi, I’m @mischief-chris
-- I’m interested in building gnu/linux based from the ground up, starting with a single package, similar to LFS linux from scratch...
-- I’m currently learning the c programming language and linux system adminastation...
-- I’m looking to collaborate on LFS linux from scratch based projects and projects related to gnu/linux package management..
-- How to reach me: mischiefchristophe@gmail.com
+- Hello there, I go by mischiefchrist and I like working magic or exorcism on the GNU Linux operating system ...
+- I like building gnu/linux based from the ground up, starting with a single package, similar to LFS linux from scratch.
+- I want to go to school to learn the c, c++, and java programming languages to become a game developer.
+- I’m looking to collaborate on linux development, and LFS linux from scratch based projects.
+- mischiefchrist@gmail.com
 
 
